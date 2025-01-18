@@ -9,8 +9,8 @@ from datetime import datetime, timedelta
 st.set_page_config(page_title="Binance Our Dashboard", layout="wide")
 
 # Mainnet API Keys
-API_KEY = "tPSQkYRSuGvl0AHb05YEh71C8hELXJKy68ZoVVik2qnk0WNDGf8PkHtzsXInvq2v"
-API_SECRET = "MSYodQH0dYF8OJMVPQKsnJKCjxyV1ir7AgW6uZmAqdMlhMstydLF8m4HG0o51xTZ"
+API_KEY = ""
+API_SECRET = ""
 
 # Initialize Binance client for Mainnet
 try:
